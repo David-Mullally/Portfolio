@@ -8,6 +8,7 @@ body, html {
   margin: 2% 0;
   width: 100%;
   text-align: center;
+  font-size: 1rem;
 }
 
 .nav-bar {
@@ -28,12 +29,13 @@ ul {
   width: 10%;
   margin-top: 15%;
   margin-right: 4%;
+  text-align: right;
 }
 
 li {
   margin: 0 0.5%;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 a {
@@ -49,15 +51,12 @@ a:hover {
   margin-bottom: 5%;
   text-align: center;
   width: 100%;
-}
-
-p {
-  margin: 0 auto 0 auto;
+  font-size: 2rem;
 }
 
 .name {
   font-family: "Permanent Marker";
-  font-size: 4rem;
+  font-size: 3.3rem;
   margin: 0.7% auto;
   width: 40%;
 }
@@ -103,10 +102,10 @@ p {
  }
 
  .intro {
-   font-size: 2rem;
-   width: 40%;
+   font-size: 1.2rem;
+   width: 70%;
  }
 
  #projects {
-   font-size: 2rem;
+   font-size: 0.8rem;
  }
