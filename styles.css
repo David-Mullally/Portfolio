@@ -63,7 +63,7 @@ a:hover {
 
 .job{
   font-family: "Mali";
-  font-size: 2rem;
+  font-size: 2.5rem;
   position: relative;
   bottom: 1.8rem;
   margin: 0 auto;
@@ -73,7 +73,7 @@ a:hover {
 .web-developer {
   bottom: 3rem;
   position: relative;
-  width: 41%;
+  width: 37%;
 }
 
  hr {
@@ -103,9 +103,9 @@ p {
 
  .intro {
    font-size: 1.2rem;
-   width: 70%;
+   width: 50%;
  }
 
  #projects {
-   font-size: 0.8rem;
+   font-size: 1.4rem;
  }
